@@ -1,0 +1,13 @@
+html {
+    background-color:beige;
+    text-align: left;
+    color:black;
+    font-family:'Courier New', Courier, monospace
+}
+/* command slash for comment */
+.list-item-red {
+    color:red
+}
+.list-item-green {
+    color:green
+}
